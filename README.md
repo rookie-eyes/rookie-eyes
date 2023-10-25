@@ -6,7 +6,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **CEH & CISSP**
+- 🌱 I’m currently Studying for my **CEH & CISSP**
 - 💬 Feel Free to ask me about **Cyber, Python, PowerShell, Docker, Splunk**
 - 📫 How to reach me **huwjones@madpiranha.co.uk**
 
