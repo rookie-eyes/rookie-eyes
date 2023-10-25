@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **huwjones@madpiranha.co.uk**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookie_eyes)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookie-eyes)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
