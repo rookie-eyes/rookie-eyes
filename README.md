@@ -10,7 +10,7 @@
 - 💬 Feel Free to ask me about **Cyber, Python, PowerShell, Docker, Splunk**
 - 📫 How to reach me **huwjones@madpiranha.co.uk**
 
-<h3 align="left">📊 &nbsp;**This week I spent my time on**</h3>
+<h3 align="left">📊 &nbsp; This week I spent my time on</h3>
 
 <h3 align="left">✨&nbsp; About Me</h3>
 
