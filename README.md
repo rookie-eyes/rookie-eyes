@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat" alt="rookie-eyes" /> </p>
 
-													  🌱 I’m currently learning **CEH & CISSP**
+													- 🌱 I’m currently learning **CEH & CISSP**
 
-											  💬 Ask me about **Cyber, Python, PowerShell, Docker, Splunk**
+											- 💬 Ask me about **Cyber, Python, PowerShell, Docker, Splunk**
 
-													  📫 How to reach me **huwjones@madpiranha.co.uk**
+													- 📫 How to reach me **huwjones@madpiranha.co.uk**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
