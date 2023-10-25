@@ -7,7 +7,8 @@
 
 - 💬 Ask me about **Cyber, Python, PowerShell, Docker**
 
-- 📫 How to reach me **huwjones@madpiranha.co.uk**
+- 📫 How to reach me 
+	**huwjones@madpiranha.co.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
