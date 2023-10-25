@@ -3,11 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat" alt="rookie-eyes" /> </p>
 
-<h3 align="center">🌱 I’m currently learning **CEH & CISSP**</h3>
-
-<h3 align="center">💬 Ask me about **Cyber, Python, PowerShell, Docker, Splunk**</h1>
-
-<h3 align="center">📫 How to reach me **huwjones@madpiranha.co.uk**</h1>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
