@@ -14,7 +14,7 @@
 
 <h3 align="left">✨&nbsp; About Me</h3>
 
-I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile:
+**I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning!** :smile:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
