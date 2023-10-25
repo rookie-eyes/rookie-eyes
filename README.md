@@ -2,7 +2,9 @@
 <h3 align="center">A Passionate Cyber Security Technologist</h3>
 <img align="right" alt="Coding" width ="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat" alt="rookie-eyes" /> </p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat" alt="rookie-eyes" />
+</p>
 
 
 - 🌱 I’m currently learning **CEH & CISSP**
