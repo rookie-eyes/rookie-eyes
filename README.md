@@ -13,7 +13,7 @@
   <dd>&rarr; CEH - Certified Ethical Hacker
   <dd>&rarr; CISSP - Cetified Information System Security Professional</dd>
 
-  <dt>💬&nbsp;  Feel Free to ask me about</dt>
+  <dt>💬&nbsp;  **Feel Free to ask me about**</dt>
   <dd> Cyber, Python, PowerShell, Docker, & Splunk SQL </dd>
 
   <dt>📫&nbsp; How to reach me: </dt>
