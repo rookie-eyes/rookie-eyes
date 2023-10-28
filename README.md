@@ -1,5 +1,5 @@
 <h1 align="center">:iphone::computer::wave:Hello There:wave::computer::iphone:</h1>
-<h3 align="center">:floppy_disk::minidisc:A Passionate Cyber Security Technologist:minidisc::floppy_disk:</h3>
+<h3 align="center">:minidisc::floppy_disk:A Passionate Cyber Security Technologist:floppy_disk::minidisc:</h3>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat" alt="rookie-eyes" />
@@ -13,12 +13,12 @@
  <dd>&rarr; CEH - Certified Ethical Hacker</dd>
  <dd>&rarr; CISSP - Cetified Information System Security Professional</dd>
 
- <dt>💬&nbsp; :speech_balloon: Feel Free to ask me about</dt>
- <dd>&rarr; :skull: Cyber Security </dd>
- <dd>&rarr; :snake: Python </dd>
- <dd>&rarr; :computer: PowerShell </dd>
- <dd>&rarr; :ship: Docker </dd>
- <dd>&rarr; :fireworks: Splunk SQL </dd>
+ <dt>&nbsp; :speech_balloon: Feel Free to ask me about</dt>
+ <dd>&nbsp; &rarr; :skull: Cyber Security </dd>
+ <dd>&nbsp; &rarr; :snake: Python </dd>
+ <dd>&nbsp; &rarr; :computer: PowerShell </dd>
+ <dd>&nbsp; &rarr; :ship: Docker </dd>
+ <dd>&nbsp; &rarr; :fireworks: Splunk SQL </dd>
 
  <dt>📫&nbsp; How to reach me: </dt>
  <dd> huwjones@madpiranha.co.uk </dd>
