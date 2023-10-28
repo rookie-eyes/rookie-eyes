@@ -10,8 +10,8 @@
   <dd>I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile: :smile: </dd>
 
   <dt>🌱&nbsp; What I'm Currently Studying for</dt>
-  <dd>&rarr;CEH - Certified Ethical Hacker
-  <dd>&rarr;CISSP - Cetified Information System Security Professional</dd>
+  <dd>&rarr; CEH - Certified Ethical Hacker
+  <dd>&rarr; CISSP - Cetified Information System Security Professional</dd>
 
   <dt>💬&nbsp;  Feel Free to ask me about</dt>
   <dd>**Cyber, Python, PowerShell, Docker, & Splunk SQL**</dd>
