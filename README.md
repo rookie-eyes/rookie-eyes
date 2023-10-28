@@ -20,8 +20,8 @@
  <dd>&nbsp; &rarr; :ship: Docker </dd>
  <dd>&nbsp; &rarr; :fireworks: Splunk SQL </dd>
 
- <dt>📫&nbsp; How to reach me: </dt>
- <dd> huwjones@madpiranha.co.uk </dd>
+ <dt>&nbsp; :email: How to reach me: </dt>
+ <dd>&nbsp;&rarr;     huwjones@madpiranha.co.uk </dd>
 </dl>
 
 <h3 align="left">📊 &nbsp; This week I spent my time on</h3>
