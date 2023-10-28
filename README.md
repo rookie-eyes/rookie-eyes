@@ -6,22 +6,22 @@
 </p>
 
 <dl>
-  <dt>✨&nbsp; About Me</dt>
-  <dd>I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile: :smile: </dd>
+ <dt>✨&nbsp; About Me</dt>
+ <dd>I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile: :smile: </dd>
 
-  <dt>🌱&nbsp; What I'm Currently Studying for</dt>
-  <dd>&rarr; CEH - Certified Ethical Hacker</dd>
-  <dd>&rarr; CISSP - Cetified Information System Security Professional</dd>
+ <dt>🌱&nbsp; What I'm Currently Studying for</dt>
+ <dd>&rarr; CEH - Certified Ethical Hacker</dd>
+ <dd>&rarr; CISSP - Cetified Information System Security Professional</dd>
 
-  <dt>💬&nbsp;  Feel Free to ask me about</dt>
-  <dd> Cyber </dd>
-  <dd> Python </dd>
-  <dd> PowerShell </dd>
-  <dd> Docker </dd>
-  <dd> Splunk SQL </dd>
+ <dt>💬&nbsp;  Feel Free to ask me about</dt>
+ <dd>&rarr; Cyber </dd>
+ <dd>&rarr; Python </dd>
+ <dd>&rarr; PowerShell </dd>
+ <dd>&rarr; Docker </dd>
+ <dd>&rarr; Splunk SQL </dd>
 
-  <dt>📫&nbsp; How to reach me: </dt>
-  <dd> huwjones@madpiranha.co.uk </dd>
+ <dt>📫&nbsp; How to reach me: </dt>
+ <dd> huwjones@madpiranha.co.uk </dd>
 </dl>
 
 <h3 align="left">📊 &nbsp; This week I spent my time on</h3>
