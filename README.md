@@ -7,7 +7,7 @@
 [![GitHub rookie-eyes](https://img.shields.io/github/followers/rookie-eyes?label=follow&style=social)](https://github.com/rookie-eyes)
 [![Reddit rookie_eyes](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/rookie_eyes/)
 ![GitHub Visits](https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat)
-![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+[![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
 
 <dl>
  <dt>:sparkles:&nbsp; About Me</dt>
