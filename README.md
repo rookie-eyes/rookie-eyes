@@ -17,8 +17,8 @@
  <dd>I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile: :smile: </dd>
 
  <dt>:mortar_board: &nbsp; What I'm Currently Studying for</dt>
- <dd>&rarr; CEH - Certified Ethical Hacker</dd>
- <dd>&rarr; CISSP - Cetified Information System Security Professional</dd>
+ <dd>&rarr; :jack_o_lantern: CEH - Certified Ethical Hacker</dd>
+ <dd>&rarr; :mount_fuji: CISSP - Cetified Information System Security Professional</dd>
 
  <dt>&nbsp; :speech_balloon: Feel Free to ask me about</dt>
  <dd>&nbsp; &rarr; :skull: Cyber Security </dd>
