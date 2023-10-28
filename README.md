@@ -7,24 +7,28 @@
 
 <dl>
  <dt>:sparkles:&nbsp; About Me</dt>
+ ------
  <dd>I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile: :smile: </dd>
 
  <dt>:mortar_board: &nbsp; What I'm Currently Studying for</dt>
+ ------
  <dd>&rarr; CEH - Certified Ethical Hacker</dd>
  <dd>&rarr; CISSP - Cetified Information System Security Professional</dd>
 
  <dt>&nbsp; :speech_balloon: Feel Free to ask me about</dt>
+ ------
  <dd>&nbsp; &rarr; :skull: Cyber Security </dd>
  <dd>&nbsp; &rarr; :snake: Python </dd>
  <dd>&nbsp; &rarr; :computer: PowerShell </dd>
  <dd>&nbsp; &rarr; :ship: Docker </dd>
  <dd>&nbsp; &rarr; :fireworks: Splunk SQL </dd>
 
- <dt>:email: How to reach me: </dt>
- <dd>&nbsp;&rarr; ________________ huwjones@madpiranha.co.uk </dd>
+ <dt>:email::postbox: How to reach me: </dt>
+ ------
+ <dd>&nbsp;&rarr; huwjones@madpiranha.co.uk </dd>
 </dl>
 
-<h3 align="left">📊 &nbsp; This week I spent my time on</h3>
+<h3 align="left">:bar_chart: &nbsp; This week I spent my time on</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
