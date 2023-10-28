@@ -6,8 +6,8 @@
 </p>
 
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+  <dt>✨&nbsp; About Me</dt>
+  <dd>**I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning!** :smile: :smile</dd>
 
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
@@ -21,7 +21,7 @@
 
 <h3 align="left">✨&nbsp; About Me</h3>
 
-**I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning!** :smile:
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
