@@ -7,13 +7,17 @@
 
 <dl>
   <dt>✨&nbsp; About Me</dt>
-  <dd>**I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning!** :smile: :smile: </dd>
+  <dd>I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile: :smile: </dd>
 
-  <dt>Markdown in HTML</dt>
+  <dt>🌱&nbsp; What I'm Currently Studying for</dt>
+  <dd>CEH - Certified Ethical Hacker 
+  CISSP - Cetified Information System Security Professional</dd>
+
+  <dt>🌱&nbsp; What I'm Currently Studying for</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-- 🌱 I’m currently Studying for my **CEH & CISSP**
+-  I’m currently Studying for my **CEH & CISSP**
 - 💬 Feel Free to ask me about **Cyber, Python, PowerShell, Docker, & Splunk SQL**
 - 📫 How to reach me **huwjones@madpiranha.co.uk**
 
