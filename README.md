@@ -13,18 +13,13 @@
   <dd>CEH - Certified Ethical Hacker
   <dd>CISSP - Cetified Information System Security Professional</dd>
 
-  <dt>🌱&nbsp; What I'm Currently Studying for</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dt>💬&nbsp;  Feel Free to ask me about</dt>
+  <dd>Cyber, Python, PowerShell, Docker, & Splunk SQL</dd>
+
+  <dt>📫&nbsp; How to reach me huwjones@madpiranha.co.uk</dt>
 </dl>
 
--  I’m currently Studying for my **CEH & CISSP**
-- 💬 Feel Free to ask me about **Cyber, Python, PowerShell, Docker, & Splunk SQL**
-- 📫 How to reach me **huwjones@madpiranha.co.uk**
-
 <h3 align="left">📊 &nbsp; This week I spent my time on</h3>
-
-
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
