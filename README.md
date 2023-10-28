@@ -29,6 +29,7 @@
 </dl>
 
 <h3 align="left">:bar_chart: &nbsp; This week I spent my time on</h3>
+ ------
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
