@@ -5,6 +5,13 @@
 <img src="https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat" alt="rookie-eyes" />
 </p>
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 
 - 🌱 I’m currently Studying for my **CEH & CISSP**
 - 💬 Feel Free to ask me about **Cyber, Python, PowerShell, Docker, & Splunk SQL**
