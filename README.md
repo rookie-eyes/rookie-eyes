@@ -12,7 +12,7 @@
 [![Reddit rookie_eyes](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/rookie_eyes/)
 ![GitHub Visits](https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat)
 
-https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
+https://github-readme-stats.vercel.app/api?username=rookie-eyes&theme=blue-green
 
 <dl>
  <dt>:sparkles:&nbsp; About Me</dt>
