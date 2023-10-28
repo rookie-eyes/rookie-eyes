@@ -1,5 +1,5 @@
-<h1 align="center">:wave:Hello There:wave:</h1>
-<h3 align="center">A Passionate Cyber Security Technologist</h3>
+<h1 align="center">:iphone::computer::wave:Hello There:wave::computer::iphone:</h1>
+<h3 align="center">:floppy_disk::minidisc:A Passionate Cyber Security Technologist:minidisc::floppy_disk:</h3>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat" alt="rookie-eyes" />
