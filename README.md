@@ -18,7 +18,7 @@
 
  <dt>:mortar_board: &nbsp; What I'm Currently Studying for</dt>
  <dd>&rarr; :jack_o_lantern: CEH - Certified Ethical Hacker</dd>
- <dd>&rarr; :mount_fuji: CISSP - Cetified Information System Security Professional</dd>
+ <dd>&rarr; :mount_fuji: CISSP - Certified Information System Security Professional</dd>
 
  <dt>&nbsp; :speech_balloon: Feel Free to ask me about</dt>
  <dd>&nbsp; &rarr; :skull: Cyber Security </dd>
