@@ -14,9 +14,10 @@
   <dd>CISSP - Cetified Information System Security Professional</dd>
 
   <dt>💬&nbsp;  Feel Free to ask me about</dt>
-  <dd>Cyber, Python, PowerShell, Docker, & Splunk SQL</dd>
+  <dd>**Cyber, Python, PowerShell, Docker, & Splunk SQL**</dd>
 
-  <dt>📫&nbsp; How to reach me huwjones@madpiranha.co.uk</dt>
+  <dt>📫&nbsp; How to reach me: </dt>
+  <dd>**huwjones@madpiranha.co.uk**</dd>
 </dl>
 
 <h3 align="left">📊 &nbsp; This week I spent my time on</h3>
