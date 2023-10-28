@@ -6,19 +6,19 @@
 </p>
 
 <dl>
- <dt>✨&nbsp; About Me</dt>
+ <dt>:sparkles:&nbsp; About Me</dt>
  <dd>I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile: :smile: </dd>
 
- <dt>🌱&nbsp; What I'm Currently Studying for</dt>
+ <dt>:mortar_board: &nbsp; What I'm Currently Studying for</dt>
  <dd>&rarr; CEH - Certified Ethical Hacker</dd>
  <dd>&rarr; CISSP - Cetified Information System Security Professional</dd>
 
- <dt>💬&nbsp;  Feel Free to ask me about</dt>
- <dd>&rarr; Cyber </dd>
- <dd>&rarr; Python </dd>
- <dd>&rarr; PowerShell </dd>
- <dd>&rarr; Docker </dd>
- <dd>&rarr; Splunk SQL </dd>
+ <dt>💬&nbsp; :speech_balloon: Feel Free to ask me about</dt>
+ <dd>&rarr; :skull: Cyber Security </dd>
+ <dd>&rarr; :snake: Python </dd>
+ <dd>&rarr; :computer: PowerShell </dd>
+ <dd>&rarr; :ship: Docker </dd>
+ <dd>&rarr; :fireworks: Splunk SQL </dd>
 
  <dt>📫&nbsp; How to reach me: </dt>
  <dd> huwjones@madpiranha.co.uk </dd>
