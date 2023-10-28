@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently Studying for my **CEH & CISSP**
-- 💬 Feel Free to ask me about **Cyber, Python, PowerShell, Docker, Splunk**
+- 💬 Feel Free to ask me about **Cyber, Python, PowerShell, Docker, & Splunk SQL**
 - 📫 How to reach me **huwjones@madpiranha.co.uk**
 
 <h3 align="left">📊 &nbsp; This week I spent my time on</h3>
