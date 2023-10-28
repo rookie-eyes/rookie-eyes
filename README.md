@@ -20,7 +20,7 @@
  <dd>&nbsp; &rarr; :ship: Docker </dd>
  <dd>&nbsp; &rarr; :fireworks: Splunk SQL </dd>
 
- <dt>&nbsp; :email: How to reach me: </dt>
+ <dt>:email: How to reach me: </dt>
  <dd>&nbsp;&rarr;     huwjones@madpiranha.co.uk </dd>
 </dl>
 
