@@ -21,7 +21,7 @@
  <dd>&nbsp; &rarr; :fireworks: Splunk SQL </dd>
 
  <dt>:email: How to reach me: </dt>
- <dd>&nbsp;&rarr; ________________huwjones@madpiranha.co.uk </dd>
+ <dd>&nbsp;&rarr; ________________ huwjones@madpiranha.co.uk </dd>
 </dl>
 
 <h3 align="left">📊 &nbsp; This week I spent my time on</h3>
