@@ -10,8 +10,8 @@
   <dd>I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile: :smile: </dd>
 
   <dt>🌱&nbsp; What I'm Currently Studying for</dt>
-  <dd>CEH - Certified Ethical Hacker 
-  CISSP - Cetified Information System Security Professional</dd>
+  <dd>CEH - Certified Ethical Hacker</dd>
+  <dd>CISSP - Cetified Information System Security Professional</dd>
 
   <dt>🌱&nbsp; What I'm Currently Studying for</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
