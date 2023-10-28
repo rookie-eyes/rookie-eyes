@@ -27,9 +27,6 @@
  <dd>&nbsp; &rarr; :ship: Docker </dd>
  <dd>&nbsp; &rarr; :fireworks: Splunk SQL </dd>
 
- <dt>:email::postbox: How to reach me: </dt>
- <dd>&nbsp;&rarr; huwjones@madpiranha.co.uk </dd>
-
  <dt>:bar_chart: &nbsp; This week I spent my time on </dt>
  <dd>&nbsp;&rarr; Splunk Dashboarding</dd>
 </dl>
