@@ -24,8 +24,6 @@
  <dd> huwjones@madpiranha.co.uk </dd>
 </dl>
 
-`r fa_rocket(colour = "#1FA67A")`
-
 <h3 align="left">📊 &nbsp; This week I spent my time on</h3>
 
 <h3 align="center">Connect with me:</h3>
