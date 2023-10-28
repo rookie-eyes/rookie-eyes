@@ -7,7 +7,7 @@
 
 <dl>
   <dt>✨&nbsp; About Me</dt>
-  <dd>**I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning!** :smile: :smile</dd>
+  <dd>**I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning!** :smile: :smile: </dd>
 
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
@@ -19,7 +19,6 @@
 
 <h3 align="left">📊 &nbsp; This week I spent my time on</h3>
 
-<h3 align="left">✨&nbsp; About Me</h3>
 
 
 
