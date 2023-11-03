@@ -3,10 +3,19 @@
 
 [![StackOverFlow: rookie_eyes](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/22803423/rookie-eyes)
 [![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://github.com/microsoft/terminal)
 [![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+[![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)](https://www.cisco.com/site/uk/en/index.html)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)](https://pi-hole.net/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Twitter: rookie_eyes](https://img.shields.io/twitter/follow/rookie_eyes?style=social)](https://twitter.com/rookie_eyes)
+[![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.org/)
+[![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
+[![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
 [![Linkedin: rookie_eyes](https://img.shields.io/badge/-HuwJones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huw-laurence-jones-mbcs-cnss-b5389094/)](https://www.linkedin.com/in/huw-laurence-jones-mbcs-cnss-b5389094/)
 [![GitHub rookie-eyes](https://img.shields.io/github/followers/rookie-eyes?label=follow&style=social)](https://github.com/rookie-eyes)
 [![Reddit rookie_eyes](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/rookie_eyes/)
@@ -15,18 +24,15 @@
 <dl>
  <dt>:sparkles:&nbsp; About Me</dt>
  <dd>I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile: :smile: </dd>
-
  <dt>:mortar_board: &nbsp; What I'm Currently Studying for</dt>
  <dd>&rarr; :jack_o_lantern: CEH - Certified Ethical Hacker</dd>
  <dd>&rarr; :mount_fuji: CISSP - Certified Information System Security Professional</dd>
-
  <dt>&nbsp; :speech_balloon: Feel Free to ask me about</dt>
  <dd>&nbsp; &rarr; :skull: Cyber Security </dd>
  <dd>&nbsp; &rarr; :snake: Python </dd>
  <dd>&nbsp; &rarr; :computer: PowerShell </dd>
  <dd>&nbsp; &rarr; :ship: Docker </dd>
  <dd>&nbsp; &rarr; :fireworks: Splunk SQL </dd>
-
  <dt>:bar_chart: &nbsp; This week I spent my time on </dt>
  <dd>&nbsp;&rarr; Splunk Dashboarding</dd>
 </dl>
