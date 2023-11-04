@@ -23,7 +23,7 @@
 [![Reddit rookie_eyes](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/rookie_eyes/)
 ![GitHub Visits](https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat)
 
-<h2 align="center"> Test Header</h2>
+<h2 align="center">:sparkles:About Me</h2>
 
 <dl>
  <dt>:sparkles:&nbsp; About Me</dt>
