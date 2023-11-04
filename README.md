@@ -24,11 +24,16 @@
 ![GitHub Visits](https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat)
 
 <h2 align="center">:sparkles:About Me</h2>
+I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile:
+
+<h4 align="center">:mortar_board:What I'm Currently Studying for</h4>
+	- :jack_o_lantern: CEH - Certified Ethical Hacker
+	- :mount_fuji: CISSP - Certified Information System Security Professional
 
 <dl>
  <dt>:sparkles:&nbsp; About Me</dt>
  <dd>I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile: :smile: </dd>
- <dt>:mortar_board: &nbsp; What I'm Currently Studying for</dt>
+ <dt>&nbsp; What I'm Currently Studying for</dt>
  <dd>&rarr; :jack_o_lantern: CEH - Certified Ethical Hacker</dd>
  <dd>&rarr; :mount_fuji: CISSP - Certified Information System Security Professional</dd>
  <dt>&nbsp; :speech_balloon: Feel Free to ask me about</dt>
