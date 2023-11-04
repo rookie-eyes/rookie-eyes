@@ -26,12 +26,12 @@
 <h2 align="center">:sparkles:About Me</h2>
 I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile:
 
-<h4 align="center">:mortar_board:What I'm Currently Studying for</h4>
+<h3 align="center">:mortar_board:What I'm Currently Studying for</h3>
 
 * :jack_o_lantern: CEH - Certified Ethical Hacker
 * :mount_fuji: CISSP - Certified Information System Security Professional
 
-<h4 align="center">:speech_balloon: Feel Free to ask me about</h4>
+<h3 align="center">:speech_balloon: Feel Free to ask me about</h3>
 
 * :skull: Cyber Security
 * :snake: Python
@@ -39,7 +39,7 @@ I am a Cyber Security Analyst with over 10 years of experience in the IT Industr
 * :ship: Docker
 * :fireworks: Splunk SQL
 
-<h4 align="centre">This week I spent my time on</h4>
+<h3 align="centre">This week I spent my time on</h3>
 
 &rarr; Splunk Dashboarding
 
