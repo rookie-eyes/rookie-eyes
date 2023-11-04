@@ -31,21 +31,17 @@ I am a Cyber Security Analyst with over 10 years of experience in the IT Industr
 * :jack_o_lantern: CEH - Certified Ethical Hacker
 * :mount_fuji: CISSP - Certified Information System Security Professional
 
-<dl>
- <dt>:sparkles:&nbsp; About Me</dt>
- <dd>I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile: :smile: </dd>
- <dt>&nbsp; What I'm Currently Studying for</dt>
- <dd>&rarr; :jack_o_lantern: CEH - Certified Ethical Hacker</dd>
- <dd>&rarr; :mount_fuji: CISSP - Certified Information System Security Professional</dd>
- <dt>&nbsp; :speech_balloon: Feel Free to ask me about</dt>
- <dd>&nbsp; &rarr; :skull: Cyber Security </dd>
- <dd>&nbsp; &rarr; :snake: Python </dd>
- <dd>&nbsp; &rarr; :computer: PowerShell </dd>
- <dd>&nbsp; &rarr; :ship: Docker </dd>
- <dd>&nbsp; &rarr; :fireworks: Splunk SQL </dd>
- <dt>:bar_chart: &nbsp; This week I spent my time on </dt>
- <dd>&nbsp;&rarr; Splunk Dashboarding</dd>
-</dl>
+<h4 align="center">:speech_balloon: Feel Free to ask me about</h4>
+
+* :skull: Cyber Security
+* :snake: Python
+* :computer: PowerShell
+* :ship: Docker
+* :fireworks: Splunk SQL
+
+<h4 align="centre">This week I spent my time on</h4>
+
+&rarr; Splunk Dashboarding
 
 <p align="center">
 <img alt="Coding" width ="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
