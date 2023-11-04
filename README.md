@@ -28,6 +28,7 @@ I am a Cyber Security Analyst with over 10 years of experience in the IT Industr
 
 <h4 align="center">:mortar_board:What I'm Currently Studying for</h4>
 - [x] :jack_o_lantern: CEH - Certified Ethical Hacker
+
 - [x] :mount_fuji: CISSP - Certified Information System Security Professional
 
 <dl>
