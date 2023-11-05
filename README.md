@@ -2,14 +2,10 @@
 <h3 align="center">:minidisc::floppy_disk:A Passionate Cyber Security Technologist:floppy_disk::minidisc:</h3>
 
 [![StackOverFlow: rookie_eyes](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/22803423/rookie-eyes)
-[![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
-[![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://github.com/microsoft/terminal)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-[![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)](https://pi-hole.net/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-gb/windows)
 [![Twitter: rookie_eyes](https://img.shields.io/twitter/follow/rookie_eyes?style=social)](https://twitter.com/rookie_eyes)
 [![Linkedin: rookie_eyes](https://img.shields.io/badge/-HuwJones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huw-laurence-jones-mbcs-cnss-b5389094/)](https://www.linkedin.com/in/huw-laurence-jones-mbcs-cnss-b5389094/)
 [![GitHub rookie-eyes](https://img.shields.io/github/followers/rookie-eyes?label=follow&style=social)](https://github.com/rookie-eyes)
