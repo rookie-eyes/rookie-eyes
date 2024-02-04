@@ -12,6 +12,7 @@
 [![GitHub rookie-eyes](https://img.shields.io/github/followers/rookie-eyes?label=follow&style=social)](https://github.com/rookie-eyes)
 [![Reddit rookie_eyes](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/rookie_eyes/)
 ![GitHub Visits](https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 <h2 align="center">:sparkles:About Me</h2>
 I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile:
