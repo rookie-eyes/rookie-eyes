@@ -5,6 +5,7 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Twitter: rookie_eyes](https://img.shields.io/twitter/follow/rookie_eyes?style=social)](https://twitter.com/rookie_eyes)
@@ -12,7 +13,7 @@
 [![GitHub rookie-eyes](https://img.shields.io/github/followers/rookie-eyes?label=follow&style=social)](https://github.com/rookie-eyes)
 [![Reddit rookie_eyes](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/rookie_eyes/)
 ![GitHub Visits](https://komarev.com/ghpvc/?username=rookie-eyes&label=Profile%20views&color=0e75b6&style=flat)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
 
 <h2 align="center">:sparkles:About Me</h2>
 I am a Cyber Security Analyst with over 10 years of experience in the IT Industry with a passion for technology and learning! :smile:
