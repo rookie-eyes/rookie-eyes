@@ -13,6 +13,7 @@
 [![Windows 10](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](https://www.microsoft.com/en-gb/software-download/windows10)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](https://www.microsoft.com/en-gb/windows/get-windows-11)
 [![Virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
+[![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)](https://www.vmware.com/uk/products/workstation-pro/workstation-pro-evaluation.html)
 [![Processor](https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/homepage.html)
 [![Graphics Card](https://img.shields.io/badge/NVIDIA-GTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-gb/geforce/graphics-cards/)
 [![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-gb)
