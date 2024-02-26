@@ -47,9 +47,10 @@ I am a Cyber Security Analyst with over 10 years of experience in the IT Industr
 
 <h3 align="centre">This week I spent my time on</h3>
 
-&rarr; Splunk Dashboarding & Reporting!
-&rarr; Teaching myself Rust for the giggles!
-&rarr; Playing around with a New Mobile Router!
+* Splunk Dashboarding & Reporting!
+* Teaching myself Rust for the giggles!
+* Playing around with a New Mobile Router!
+
 <p align="center">
 <img alt="Coding" width ="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <p/>
