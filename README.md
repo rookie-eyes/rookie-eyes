@@ -22,7 +22,6 @@
 [![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=fff)](https://chocolatey.org/)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
-[![Twitter: rookie_eyes](https://img.shields.io/twitter/follow/rookie_eyes?style=social)](https://twitter.com/rookie_eyes)
 [![Linkedin: rookie_eyes](https://img.shields.io/badge/-HuwJones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huw-laurence-jones-mbcs-cnss-b5389094/)](https://www.linkedin.com/in/huw-laurence-jones-mbcs-cnss-b5389094/)
 [![GitHub rookie-eyes](https://img.shields.io/github/followers/rookie-eyes?label=follow&style=social)](https://github.com/rookie-eyes)
 [![Reddit rookie_eyes](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/rookie_eyes/)
