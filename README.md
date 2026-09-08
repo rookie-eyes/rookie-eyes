@@ -27,7 +27,7 @@
 
 
 <h2 align="center">:sparkles:About Me</h2>
-I am a Cyber Security Analyst with over 14 years of experience in the IT Industry with a passion for technology and learning! :smile:
+I'm a Cyber Security Analyst with 10+ years experience in the IT Industry with a passion for technology, learning and best of all Cyber! :smile:
 
 <h3 align="center">:mortar_board:What I'm Currently Studying for</h3>
 
