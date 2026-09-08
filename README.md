@@ -10,8 +10,6 @@
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)](https://tails.net/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-gb/windows)
-[![Windows 10](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](https://www.microsoft.com/en-gb/software-download/windows10)
-[![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](https://www.microsoft.com/en-gb/windows/get-windows-11)
 [![Virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
 [![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)](https://www.vmware.com/uk/products/workstation-pro/workstation-pro-evaluation.html)
 [![Processor](https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/homepage.html)
